@@ -1,2 +1,2 @@
-# Collage-Main-2
+# Collage
 newproject
